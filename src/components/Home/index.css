@@ -1,0 +1,21 @@
+.bg-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.home-container {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dark-container {
+  background-color: #000000;
+}
+.light-container {
+  background-color: #ffffff;
+}
+.home-image {
+  width: 20%;
+}

@@ -1,0 +1,16 @@
+.heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.para {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.dark-color {
+  color: #171f46;
+}
+.light-color{
+    color:  #ffffff;
+}
